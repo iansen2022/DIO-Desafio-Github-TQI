@@ -1,3 +1,6 @@
-# Template de Currículo 
+# Desafio de Projeto sobre Git/Github da DIO 
+Repositório criado para o Desafio de Projeto.
 
-Template em HTML e CSS para um breve hands on durante a Master Class "Criando um Currículo de Sucesso - O Passo a Passo em Tempo Real".
+Links Úteis
+
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
